@@ -1,0 +1,31 @@
+header{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-display: 34px;
+    position: sticky;
+    color:whitesmoke;
+    background-color:violet;
+    top: 0%;
+    bottom: 0%;
+    z-index: 1000;
+}
+p{
+    font-size: x-large;
+    font-weight: bold;
+    color:white;
+
+}
+img{
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+}
+body{
+    background-color:grey;}
+
+table,td,th{
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: black;
+    color: white;
+}
